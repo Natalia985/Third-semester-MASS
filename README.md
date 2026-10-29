@@ -1,4 +1,4 @@
-MASS – Semester 3
+# MASS – Semester 3
 
 This repository contains code, assignments, and coursework developed as part of the MASS Master’s program at the University of Belgrade.
 
